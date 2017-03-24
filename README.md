@@ -94,7 +94,7 @@ provided by `hgvs`.
 
 ```python
 import pyhgvs as hgvs
-import hgvs.utils as hgvs_utils
+import pyhgvs.utils as hgvs_utils
 from pygr.seqdb import SequenceFileDB
 
 # Read genome sequence using pygr.
